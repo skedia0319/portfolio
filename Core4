@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <heading>
+    <title>Core4|Sanchita Kedia</title>
+  </heading>
+  <body style="background-image:url(https://ak6.picdn.net/shutterstock/videos/26073959/thumb/1.jpg); background-repeat: no repeat;background-attachment: fixed; background-size: cover">
+  	<div style="background-image: class="header">
+    <table style="width: 100%">
+    <tr style="background-color:#3BD7F3">
+        <td style="text-align:center;font-size:30px"><a href="portfolio/index.html" style="text-decoration:none; color:white" > Home</a></td>
+        <td style="text-align:center;font-size:30px"><a href="portfolio/AboutMe.html" style="text-decoration:none; color:white">About Me</a></td>
+        <td style="text-align:center;font-size:30px"><a href="portfolio/Projects.html" style="text-decoration:none; color:white" > Projects</a></td>
+        <td style="text-align:center;font-size:30px"><a href="portfolio/Core4.html" style="text-decoration:none;color:white">Core4</a></td>
+    </tr>
+    </table>
+    </div>
+    <h1 style= "color:white;text-align:center">Core4</h1>
+    <div style="background-color:white;width:100%">
+    	<h2 style="color:#3BD7F3;text-align:left">Loops</h2>
+        <p style="color:black;font-family:Helvetica, sans-serif"><strong>Definition:</strong>A loop is a sequence of code/instructions that are repeated until a certain condition is satisfied.</p>
+        <p style="color:black;font-family:Helvetica, sans-serif"><strong>Analogy:</strong>One keeps brushing their hair until all the knots in a strand are gone. If with one brush the knot is still there, one brushes that same piece again until the knots are gone.</p>
+   	<div>
+  </body>
+  </html>
