@@ -19,6 +19,22 @@
     	<h2 style="color:#3BD7F3;text-align:left">Loops</h2>
         <p style="color:black;font-family:Helvetica, sans-serif"><strong>Definition:</strong>A loop is a sequence of code/instructions that are repeated until a certain condition is satisfied.</p>
         <p style="color:black;font-family:Helvetica, sans-serif"><strong>Analogy:</strong>One keeps brushing their hair until all the knots in a strand are gone. If with one brush the knot is still there, one brushes that same piece again until the knots are gone.</p>
-   	<div>
+   	</div>
+     <div style="background-color:white;width:100%">
+    	<h2 style="color:#3BD7F3;text-align:left">Conditionals</h2>
+        <p style="color:black;font-family:Helvetica, sans-serif"><strong>Definition:</strong>A conditional is a sequence of code/instructions/actions that are only executed when a certain condition is satisfied.Each decision is based on the value of the boolean expression(condition) which can be true or false .</p>
+        <p style="color:black;font-family:Helvetica, sans-serif"><strong>Analogy:</strong>Conditionals are kind of based on the idea of dominos. For example, when you push the first domino in a row of dominos, all the dominos fall much like all the actions take place once a certain condition is satisfied.</p>
+   	</div>
+    <div style="background-color:white;width:100%">
+    	<h2 style="color:#3BD7F3;text-align:left">Functions</h2>
+        <p style="color:black;font-family:Helvetica, sans-serif"><strong>Definition:</strong>A function is a set of code that usually takes in data and then returns a value. It can be called again and again and specific values can be specified each time it is called in the function call.</p>
+        <p style="color:black;font-family:Helvetica, sans-serif"><strong>Analogy:</strong>Functions are similar to printers. Printers execute a certain sequence of actions when a button is pressed much like when a function is call. However, in a function call, once can specify values to use in that function. Similarily in a printer, when the print button is pressed, certain values about color and copies is taken into account when the printer is printing.</p>
+   	</div>
+    <div style="background-color:white;width:100%">
+    	<h2 style="color:#3BD7F3;text-align:left">Variable</h2>
+        <p style="color:black;font-family:Helvetica, sans-serif"><strong>Definition:</strong>A variable is used to store information that is to be used and manipulated in a set of code. Some variable types include <strong>strings</strong> which is a "string" of characters, <strong>integers(int)</strong> which are whole numbers, <strong>boolean</strong> which can be true or false, and <strong>floats</strong> which can have a decimal point with a certain number of digits past the decimal point.</p>
+        <p style="color:black;font-family:Helvetica, sans-serif"><strong>Analogy:</strong>Variables are similar to phone contacts. The information that a contact holds can be changed like their picture, email, and phone number. That contact can then be used to create group chats. Variables can store different types of information that is then used in code.</p>
+   	</div>
+    
   </body>
   </html>
