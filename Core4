@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<<!DOCTYPE html>
 <html>
   <heading>
     <title>Core4|Sanchita Kedia</title>
@@ -29,6 +29,8 @@
     	<h2 style="color:#3BD7F3;text-align:left">Functions</h2>
         <p style="color:black;font-family:Helvetica, sans-serif"><strong>Definition:</strong>A function is a set of code that usually takes in data and then returns a value. It can be called again and again and specific values can be specified each time it is called in the function call.</p>
         <p style="color:black;font-family:Helvetica, sans-serif"><strong>Analogy:</strong>Functions are similar to printers. Printers execute a certain sequence of actions when a button is pressed much like when a function is call. However, in a function call, once can specify values to use in that function. Similarily in a printer, when the print button is pressed, certain values about color and copies is taken into account when the printer is printing.</p>
+        <p style="color:black;font-family:Helvetica, sans-serif">In Scratch:</p>
+        <img src="https://github.com/skedia0319/portfolio/blob/gh-pages/Functionimage.png?raw=true" style="float:center"> 
    	</div>
     <div style="background-color:white;width:100%">
     	<h2 style="color:#3BD7F3;text-align:left">Variable</h2>
