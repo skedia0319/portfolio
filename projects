@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <heading>
+    <title>Projects|Sanchita Kedia</title>
+  </heading>
+  <body style="background-image:url(https://static1.squarespace.com/static/550dc02ce4b0ef0b673cbe54/5511be16e4b0a07e16729603/5511be6ee4b0feb7d0384a1e/1427226232822/lightbulb+black+%26+white.jpg); background-repeat: no repeat;background-attachment: fixed; background-size: cover">
+  	<div style="backgound-image: class="header">
+    <table style="width: 100%">
+    <tr style="background-color:#3BD7F3">
+        <td style="text-align:center;font-size:30px"><a href="portfolio/index.html" style="text-decoration:none; color:white" > Home</a></td>
+        <td style="text-align:center;font-size:30px"><a href="portfolio/AboutMe.html" style="text-decoration:none; color:white">About Me</a></td>
+        <td style="text-align:center;font-size:30px"><a href="portfolio/Projects.html" style="text-decoration:none; color:white" > Projects</a></td>
+        <td style="text-align:center;font-size:30px"><a href="portfolio/Core4.html" style="text-decoration:none;color:white">Core4</a></td>
+        <td style="text-align:center;font-size:30px"><a href="portfolio/Core4.html" style="text-decoration:none;color:white">Reflections</a></td>
+    </tr>
+    </table>
+    <h1 style="text-align:center;color:white">Projects</h1>
+    </div>
+     <h2 style="color:white">Sidescroller Scratch Game</h2>
+     <div style="background-color:#3BD7F3;width:100%">
+     <p style="color: white;font-family:Helvetica, sans serif">I think Python and Scratch use the exact same logic and the same concepts. However, I think python requires a lot more of reading up on syntax since the functions and the names of certain program features are not as simply and self-explanatory as Scratch. Debugging was very difficult for certain aspects of the program, but I think debugging helped me better understand the logic of programming.</p>
+     <img src="">
+     </div>  
+     <h2 style="color:white">Arduino Introduction</h2>
+     <div style="background-color:#3BD7F3;width:100%">
+     	<p style="color: white;font-family:Helvetica, sans serif">I actually learned how to build a circuit on Arduino. Before, I had only heard of arduino and had never really used a circuit board. I also learned a lot of terminology including what jumper wires are and what exactly a breadboard. Even though I knew what certain types of circuits like series circuits and parallel circuits were before, I never knew exactly how to build it. After building this circuit, I feel confident that I could build other circuits using an arduino.</p>
+        <img src="https://github.com/skedia0319/portfolio/blob/gh-pages/FullSizeRender%20(1).jpg?raw=true" style = "float:left; width: 45%; height:200px"> 
+        <img src="https://github.com/skedia0319/portfolio/blob/gh-pages/FullSizeRender.jpg?raw=true" style = "float:right; width: 45%; height:200px">
+     	</div>
+        </div>
+        </div>
+     </body>
+     </html>
+
+     </body>
+     </html>
