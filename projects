@@ -19,8 +19,10 @@
      <h2 style="color:white">Sidescroller Scratch Game</h2>
      <div style="background-color:#3BD7F3;width:100%">
      <p style="color: white;font-family:Helvetica, sans serif">I think Python and Scratch use the exact same logic and the same concepts. However, I think python requires a lot more of reading up on syntax since the functions and the names of certain program features are not as simply and self-explanatory as Scratch. Debugging was very difficult for certain aspects of the program, but I think debugging helped me better understand the logic of programming.</p>
-     <img src="">
-     </div>  
+     </div>
+      <img src="https://github.com/skedia0319/portfolio/blob/gh-pages/SideScrollerOpen.png?raw=true" style = "width: 30%; height:200px"> 
+      <img src="https://github.com/skedia0319/portfolio/blob/gh-pages/SideScrollerEnd.png?raw=true" style = "width: 30%; height:200px">
+       <img src="https://github.com/skedia0319/portfolio/blob/gh-pages/SideScrollerGame.png?raw=true" style = "width: 30%; height:200px"> 
      <h2 style="color:white">Arduino Introduction</h2>
      <div style="background-color:#3BD7F3;width:100%">
      	<p style="color: white;font-family:Helvetica, sans serif">I actually learned how to build a circuit on Arduino. Before, I had only heard of arduino and had never really used a circuit board. I also learned a lot of terminology including what jumper wires are and what exactly a breadboard. Even though I knew what certain types of circuits like series circuits and parallel circuits were before, I never knew exactly how to build it. After building this circuit, I feel confident that I could build other circuits using an arduino.</p>
@@ -28,9 +30,5 @@
         <img src="https://github.com/skedia0319/portfolio/blob/gh-pages/FullSizeRender.jpg?raw=true" style = "float:right; width: 45%; height:200px">
      	</div>
         </div>
-        </div>
-     </body>
-     </html>
-
      </body>
      </html>
