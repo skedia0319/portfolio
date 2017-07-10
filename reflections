@@ -20,5 +20,14 @@
      <div style="background-color:#3BD7F3;width:100%">
      <p style="color: white;font-family:Helvetica, sans serif">I think Python and Scratch use the exact same logic and the same concepts. However, I think python requires a lot more of reading up on syntax since the functions and the names of certain program features are not as simply and self-explanatory as Scratch. Debugging was very difficult for certain aspects of the program, but I think debugging helped me better understand the logic of programming.</p>
      </div>
+      <h2 style="color:white">June 30, 2017</h3>
+     <div style="background-color:#3BD7F3;width:100%">
+     <p style="color: white;font-family:Helvetica, sans serif">A list is a data structure that holds mulitple individual data elements. Lists can hold any type of data. They can also be altered and certain code can be performed for only one element in a list through indices. Furthermore, lists are useful because it is very simple to loop through lists. If one piece of code has to be performed for many elements, all those elements can be put in a list rather than repeating the code for each one. In addition to learning about lists in python, I had the opportunity to work with many different people. I think for me, I enjoyed the paired programming the most. I feel that working with a single partner feels more personal. Furthermore, I think that in partners, we check up more on each other and are able to be more involved than when we are in a bigger group.</p>
+     </div>
+     <h2 style="color:white">July 5, 2017</h3>
+     <div style="background-color:#3BD7F3;width:100%">
+     <p style="color: white;font-family:Helvetica, sans serif">Today I learned a lot about robots and their ethics. Before today, when I would think of a robot, I would think of metal, electricity, and motors. Furthermore, I thought of robots as only items that were used in VEX Robotics and FRC robotics. However, today I realized how broad the term "robot" really is and how that many every day items could be considered robots. Even though there is no exact definition for a robot, our class concluded today that as long as an object is gathering information from its environment and reacting to that information, we can consider it a robot. Furthermore, I learned a lot more about what works in a group and what does not. I think that my groub was very good about explaining concepts to each other, but I think often it would only really be two people working on the actual project. As a result, I think in the future, I need to be more careful about making sure that all of us in the group work on the project.</p>
+     </div>   
      </body>
      </html>
+</html>
