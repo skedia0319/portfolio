@@ -17,23 +17,23 @@
     </div>
     <h1 style="text-align:center;color:white">Reflections</h1>
      <h2 style="color:white">June 27, 2017</h3>
-    <div style="background-color:white;width:99%;border:2px solid #3BD7F3">
+    <div style="background-color:white;width:80%;border:2px solid #3BD7F3">
      <p style="color: black;font-family:Helvetica, sans serif">I think Python and Scratch use the exact same logic and the same concepts. However, I think python requires a lot more of reading up on syntax since the functions and the names of certain program features are not as simply and self-explanatory as Scratch. Debugging was very difficult for certain aspects of the program, but I think debugging helped me better understand the logic of programming.</p>
      </div>
       <h2 style="color:white">June 30, 2017</h3>
-     <div style="background-color:white;width:99%;border:2px solid #3BD7F3">
+     <div style="background-color:white;width:80%;border:2px solid #3BD7F3">
      <p style="color: black;font-family:Helvetica, sans serif">A list is a data structure that holds mulitple individual data elements. Lists can hold any type of data. They can also be altered and certain code can be performed for only one element in a list through indices. Furthermore, lists are useful because it is very simple to loop through lists. If one piece of code has to be performed for many elements, all those elements can be put in a list rather than repeating the code for each one. In addition to learning about lists in python, I had the opportunity to work with many different people. I think for me, I enjoyed the paired programming the most. I feel that working with a single partner feels more personal. Furthermore, I think that in partners, we check up more on each other and are able to be more involved than when we are in a bigger group.</p>
      </div>
      <h2 style="color:white">July 5, 2017</h3>
-     <div style="background-color:white;width:99%;border:2px solid #3BD7F3">
+     <div style="background-color:white;width:80%;border:2px solid #3BD7F3">
      <p style="color: black;font-family:Helvetica, sans serif">Today I learned a lot about robots and their ethics. Before today, when I would think of a robot, I would think of metal, electricity, and motors. Furthermore, I thought of robots as only items that were used in VEX Robotics and FRC robotics. However, today I realized how broad the term "robot" really is and how that many every day items could be considered robots. Even though there is no exact definition for a robot, our class concluded today that as long as an object is gathering information from its environment and reacting to that information, we can consider it a robot. Furthermore, I learned a lot more about what works in a group and what does not. I think that my groub was very good about explaining concepts to each other, but I think often it would only really be two people working on the actual project. As a result, I think in the future, I need to be more careful about making sure that all of us in the group work on the project.</p>
      </div>
      <h2 style="color:white">July 6, 2017</h3>
-     <div style="background-color:white;width:99%;border:2px solid #3BD7F3">
+     <div style="background-color:white;width:80%;border:2px solid #3BD7F3">
      <p style="color: black;font-family:Helvetica, sans serif">Today I learned even more about Robotics and arudino. I think today was quite interesting because I saw the real life implications of Robotics. For example, we learned about Ayanna Howards and Manuela Velosa's work in robotics. They both made robots to assist those in need including Ayanna Howards'robotic sensor arm to allow kids with disabilities to communicate and Manuela Velosa's cobot which can also be used in hospitals for people who need help. I also learned much more about arudino programming. I learned that the two basic elements of every arduino sketch are the setup() function and the loop(). The setup() is only run once and includes the initial necessary stages for the code including the setting of pin modes. The loop() is repeated and the code that needs to be repeated is part of this. In this case, the code that turned the led light on and off was placed in this. We were able to work on this arduino sketch in groups today and my group very well together even though the circuitry took us some time today. </p>
      </div>
       <h2 style="color:white">July 7, 2017</h3>
-     <div style="background-color:white;width:99%;border:2px solid #3BD7F3">
+     <div style="background-color:white;width:80%;border:2px solid #3BD7F3">
      <p style="color: black;font-family:Helvetica, sans serif">Today, I learned more about how the Internet worked. Before, I knew that IP addresses were how computers found each other, but I did not understand the concept of servers and routers very well. Now, I understand that the way we are able to access websites is through servers and that we use servers to do so by requesting webpages from the server. I also now understand that routers are how information travels from one computer to other computers. Other than that, I also learned about the difference between markup languages and programming languages. Markup languages simply affect aesthetics and thus since LaTeX only formats documents it is a markup languages. Programming languages actually tell computers what to do.</p>
      </div>
      </body>
