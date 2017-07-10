@@ -17,17 +17,18 @@
     <h1 style="text-align:center;color:white">Projects</h1>
     </div>
      <h2 style="color:white">Sidescroller Scratch Game</h2>
-     <div style="background-color:white;width:100%;border:3px solid #3BD7F3">
+     <div style="background-color:white;width:90%;border:3px solid #3BD7F3">
      <p style="color: black;font-family:Helvetica, sans serif">In our sidescroller game, a penguin steals items from a girl's house which makes her angry. So, she flies after him using a tampon as a "broomstick" and tries to get her items back. While she is flying, the player gets point every time she catchs one of the stolen objects, but the player has to avoid the obstacles. If she touches an obstacle, the game is over. Players can control her movement upward and downward using the spacebar. </p>
       <img src="https://github.com/skedia0319/portfolio/blob/gh-pages/SideScrollerOpen.png?raw=true" style = "width: 20%; height:200px"> 
       <img src="https://github.com/skedia0319/portfolio/blob/gh-pages/SideScrollerEnd.png?raw=true" style = "width: 20%; height:200px">
        <img src="https://github.com/skedia0319/portfolio/blob/gh-pages/SideScrollerGame.png?raw=true" style = "width: 20%; height:200px"> 
        </div>
      <h2 style="color:white">Arduino Introduction</h2>
-     <div style="background-color:white;width:100%;border:3px solid #3BD7F3">
+     <div style="background-color:white;width:90%;border:3px solid #3BD7F3">
      	<p style="color: black;font-family:Helvetica, sans serif">I actually learned how to build a circuit on Arduino. Before, I had only heard of arduino and had never really used a circuit board. Even though I knew what certain types of circuits like series circuits and parallel circuits were before, I never knew exactly how to build it. After building this circuit, I feel confident that I could build other circuits using an arduino. I also learned a lot of terminology including what jumper wires are and what exactly a breadboard was.</p>
         <img src="https://github.com/skedia0319/portfolio/blob/gh-pages/FullSizeRender%20(1).jpg?raw=true" style = "width: 20%; height:150px"> 
         <img src="https://github.com/skedia0319/portfolio/blob/gh-pages/FullSizeRender.jpg?raw=true" style = "width: 20%; height:150px">
         </div>
      </body>
      </html>
+     
